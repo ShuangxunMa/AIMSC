@@ -2,8 +2,15 @@
 
 Title: Auto-weighted and Intrinsic Multi-view Spectral Clustering via Anchor Graphs
 
-# 1. Usage:
+## 1. Requirements
 
-run Demo_AIMSC_on_UCI.m
+Matlab
+(We run experiments on a Windows PC,  16.0 GB RAM with Matlab 2019b)
 
+## 1. Usage:
+
+run
+```
+Demo_AIMSC_on_UCI.m
+```
 TBD
