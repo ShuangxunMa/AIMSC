@@ -9,8 +9,9 @@ Matlab
 
 ## 1. Usage:
 
-run
+run AIMSC on UCI dataset:
 ```
 Demo_AIMSC_on_UCI.m
 ```
-TBD
+run AIMSC on other datasets:
+(TBD)
